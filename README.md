@@ -20,3 +20,5 @@ npm run e2e                                 # Playwright smoke test against the 
 ## Contributing
 
 See [AGENTS.md](./AGENTS.md). In short: never push to `main`, one PR per ticket, and `npm test` and `npm run e2e` must pass before you open a PR. Every PR runs the `ci` and `droid-review` checks.
+
+This line exists only to smoke-test the droid-review check.
